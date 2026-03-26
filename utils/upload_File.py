@@ -13,6 +13,7 @@ def upload_file(driver, file_path= r"C:/Users/97155/Downloads/CV-Bhawesh_Lungeli
         EC.presence_of_element_located(upload_file_input)
     )
 
+    # Make hidden input visible using JavaScript
     driver.execute_script(
         "arguments[0].style.display='block'; arguments[0].style.opacity=1;",
         file_input

@@ -2,7 +2,7 @@ VALID_DATA= [
     {
         "first_name": "Bhawesh",
         "last_name": "Magar",
-        "phone_number": "9703651488",
+        "phone_number": "9812398765",
         "password": "Magar@bhawesh4508",
         "confirm_password": "Magar@bhawesh4508",
         "agency_name": "Biratnagar Agency",
